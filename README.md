@@ -1,7 +1,7 @@
 <h1 align="center"> NLW Copa </h1>
 
 <h3 align="center">
-  <a href="https://rodox-pay.vercel.app">Acesse Meu App</a>
+  <a href="https://nlw-copa-three.vercel.app">Acesse Meu App</a>
 </h3>
 
 <p align="center">
